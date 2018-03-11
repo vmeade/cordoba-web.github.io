@@ -4,7 +4,7 @@ title: About Me
 permalink: /about me/
 ---
 
-![alt text]("http://url/to/Cat&I.jpg")
+![](https://imgur.com/a/N4WsJ)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
