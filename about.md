@@ -3,6 +3,8 @@ layout: page
 title: About Me
 permalink: /about me/
 ---
+#ga('create', '{{ site.google_analytics }}', 'auto');
+
 
 <p><img src="/images/CatandI.jpg" alt="Cat and I"></p>
 
