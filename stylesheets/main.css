@@ -1,0 +1,21 @@
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #add8e6;
+}
+
+.logo-text {
+  text-align: center;
+}
+
+.jumbotron {
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+
+.rotate {
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
