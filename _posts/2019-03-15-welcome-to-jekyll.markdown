@@ -11,7 +11,7 @@ categories: jekyll update
 <img src="/assets/img/home.png" width="250" style="margin-right:15px;"/>
 It appears that the universe has collided with Herot many, many times. This is not the first site, host, or post of this blog. Argumentum ad baculum de Grendel.
 
-This month I'm planning to do the follow:
+Within the next 30 days I'm planning to do the follow:
 </p>
 <ol>
  <li>a personalized english translation of <b>La lotería en Babilonia</b> from Borges's <em>El jardín de senderos que se bifurcan</em></li>
