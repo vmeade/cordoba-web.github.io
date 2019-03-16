@@ -17,7 +17,7 @@ This month I'm plannin to do the follow:
  <li>a personalized english translation of <em>La lotería en Babilonia</em> from Borges's "La lotería en Babilonia"</li>
  <li>a review of <br /> 
  Noise & Syrup's <br />
- 2011\
+ 2011<br />
  -Companion to Sleep- <br />
  music for drifting while levitating air <br />
  </li>
