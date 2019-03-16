@@ -14,12 +14,12 @@ It appears that the universe has collided with Herot many, many times. This is n
 This month I'm plannin to do the follow:
 </p>
 <ol>
- <li>a personalized english translation of <em>La lotería en Babilonia</em> from Borges's "La lotería en Babilonia"</li>
+ <li>a personalized english translation of <b>La lotería en Babilonia</b> from Borges's <em>El jardín de senderos que se bifurcan</em></li>
  <li>a review of <br /> 
  Noise & Syrup's <br />
  2011<br />
- -Companion to Sleep- <br />
- music for drifting while levitating air <br />
+ <b>-Companion to Sleep- <br />
+ music for drifting while levitating air</b> <br />
  </li>
 <ol> 
 
