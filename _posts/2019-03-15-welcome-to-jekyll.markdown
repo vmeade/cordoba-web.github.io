@@ -23,8 +23,8 @@ This month I'm planning to do the follow:
  </li>
  <li>an analysis of E.E Viollet-le-Duc's <b>Military Architecture</b>
  </li>
- <br />
- <p>This</p>
 <ol> 
-
+<br />
+<br />
+<p>Test</p>
 
