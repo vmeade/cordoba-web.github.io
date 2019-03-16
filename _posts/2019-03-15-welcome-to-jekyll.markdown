@@ -24,8 +24,4 @@ Within the next 30 days I'm planning to do the follow:
  <li>an analysis of E.E Viollet-le-Duc's <b>Military Architecture</b>
  </li>
 <ol> 
-<br />
-<br />
-<br />
-<p>Test</p>
 
