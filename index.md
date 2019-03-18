@@ -4,5 +4,5 @@
 
 layout: home
 ---
-<img src="/assets/img/jacob.png" style="display:block;margin-left:auto;margin-right:auto;" /> 
+<img src="/assets/img/home.png" style="display:block;margin-left:auto;margin-right:auto;" /> 
 
