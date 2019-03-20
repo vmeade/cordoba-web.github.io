@@ -8,10 +8,10 @@ categories: espanol poesis
 <img src="/assets/img/sand.JPG" style="display:block;margin-left:auto;margin-right:auto;" /> 
 
 ## EN TIERRA FIRMA 
-Heme aquí
-con los Estados Unidos de América
-que sobrealimenta,
-desplomándonos juntos
-y escondiéndonos
-de una muerte poco natural.
+Heme aquí<br />
+con los Estados Unidos de América<br />
+que sobrealimenta,<br />
+desplomándonos juntos<br />
+y escondiéndonos<br />
+de una muerte poco natural.<br />
 
