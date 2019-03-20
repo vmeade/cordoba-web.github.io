@@ -1,0 +1,17 @@
+---
+layout: post
+author: vm 
+date:   2019-03-19 21:48:00 -0300
+categories: espanol poesis 
+---
+
+<img src="/assets/img/jacob.png" style="display:block;margin-left:auto;margin-right:auto;" /> 
+
+## EN TIERRA FIRMA 
+Heme aquí
+con los Estados Unidos de América
+que sobrealimenta,
+desplomándonos juntos
+y escondiéndonos
+de una muerte poco natural.
+
