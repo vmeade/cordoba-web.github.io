@@ -5,7 +5,7 @@ date:   2019-03-19 21:48:00 -0300
 categories: espanol poesis 
 ---
 
-<img src="/assets/img/jacob.png" style="display:block;margin-left:auto;margin-right:auto;" /> 
+<img src="/assets/img/sand.JPG" style="display:block;margin-left:auto;margin-right:auto;" /> 
 
 ## EN TIERRA FIRMA 
 Heme aquí
