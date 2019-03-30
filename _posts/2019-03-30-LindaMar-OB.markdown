@@ -9,6 +9,7 @@ categories: surf
     window.onload = function() {
       var a = document.getElementById("linda");
       a.onclick = function() {
+        console.log("test!");
         cameraCurrentTimeReset=3000000000000001;
       }
     }
@@ -29,5 +30,5 @@ categories: surf
 <a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Cam</a>
 <!--<iframe width="960" height="540" src="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128" frameborder="0" scrolling="no" allowfullscreen></iframe>
 -->
-<
+
 
