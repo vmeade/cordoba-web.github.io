@@ -19,16 +19,27 @@ categories: surf
         cameraCurrentTimeReset=3000000000000001;
       }
     }
+
 </script>
 
 ## Linda Mar
 <a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam</a>
-<!--<iframe width="960" height="540" src="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013" frameborder="0" scrolling="no" allowfullscreen></iframe>
--->
+
 
 ## Ocean Beach 
 <a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Cam</a>
-<!--<iframe width="960" height="540" src="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128" frameborder="0" scrolling="no" allowfullscreen></iframe>
--->
+
+<hr>
+##testing no ads..
+
+<form action="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013" method="post">
+  <div>
+    <label for="to">Who do you want to say it to?</label>
+    <input name="cameraCurrentTimeReset" id="cameraCurrentTimeReset" value="3000000000000001">
+  </div>
+  <div>
+    <button>Cam</button>
+  </div>
+</form>
 
 
