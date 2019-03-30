@@ -4,13 +4,23 @@ author: vm
 date:   2019-03-30 09:38:00 -0300
 categories: surf 
 ---
+
+<script type="text/javascript">
+    window.onload = function() {
+      var a = document.getElementById("mylink");
+      a.onclick = function() {
+        cameraCurrentTimeReset=3000000000000001;
+      }
+    }
+</script>
+
 ## Linda Mar
-<a href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013&cameraCurrentTimeReset=3000000000000001">Cam</a>
+<a href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam</a>
 <!--<iframe width="960" height="540" src="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013" frameborder="0" scrolling="no" allowfullscreen></iframe>
 -->
 
 ## Ocean Beach 
-<a href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128&cameraCurrentTimeReset=3000000000000001">Cam</a>
+<a href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Cam</a>
 <!--<iframe width="960" height="540" src="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128" frameborder="0" scrolling="no" allowfullscreen></iframe>
 -->
 <
