@@ -22,15 +22,16 @@ categories: surf
 
 </script>
 
-## Linda Mar
-<a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam</a>
+## Linda Mar (temporarily down)
+<a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5015">Cam</a>
 
 
 ## Ocean Beach 
 <a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Cam</a>
 
-<hr>
-## testing no ads..
+
+## Sharp Park
+<a id="sharppark" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5017">Cam</a>
 
 <!--<form action="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013" method="post">
   <div>
