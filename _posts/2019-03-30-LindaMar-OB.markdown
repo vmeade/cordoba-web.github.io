@@ -22,7 +22,7 @@ categories: surf
 
 </script>
 
-##Northern California
+## Northern California
 
 ## Linda Mar (temporarily down)
 <a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5015">Cam1</a><br>
@@ -37,9 +37,9 @@ categories: surf
 ## Sharp Park
 <a id="sharppark" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5017">Cam</a>
 
-#Oahu
+## Oahu
 
-#Ala Moana Bowls
+##Ala Moana Bowls
 <a id="alamoanabowls" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5017">Cam</a>
 
 <!--<form action="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013" method="post">
