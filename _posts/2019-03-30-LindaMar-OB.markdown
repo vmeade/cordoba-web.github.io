@@ -24,6 +24,7 @@ categories: surf
 
 ## Linda Mar (temporarily down)
 <a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5015">Cam</a>
+<a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam</a>
 
 
 ## Ocean Beach
