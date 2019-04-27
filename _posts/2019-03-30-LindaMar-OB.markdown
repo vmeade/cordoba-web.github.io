@@ -40,7 +40,7 @@ categories: surf
 # Oahu
 <hr>
 ### Ala Moana Bowls
-<a id="alamoanabowls" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5017">Cam</a>
+<a id="alamoanabowls" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5538">Cam</a>
 
 <!--<form action="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013" method="post">
   <div>
