@@ -14,10 +14,13 @@ The book is interesting and there is alot to be said but it is not my goal to go
 # Gallery
 
 ## The book
-<img src="/assets/img/1.jpg" width=500 style="display:block;margin-left:auto;margin-right:auto;" />
+
+<img src="/assets/img/1.jpg" style="width:500px;display:block;margin-left:auto;margin-right:auto;" />
 ## Many Plans and good illustrations
-<img src="/assets/img/2.jpg" width=500 style="display:block;margin-left:auto;margin-right:auto;" />
+
+<img src="/assets/img/2.jpg" style="width:500px;display:block;margin-left:auto;margin-right:auto;" />
 
 Yes, I do have a modern Zulu woven basket - Sorry Viollet!
-<img src="/assets/img/3.jpg" width=500 style="display:block;margin-left:auto;margin-right:auto;" /> 
+
+<img src="/assets/img/3.jpg" style="width:500px;display:block;margin-left:auto;margin-right:auto;" /> 
 
