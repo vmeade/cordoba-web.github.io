@@ -11,14 +11,15 @@ The book runs through a number of examples of castle that at the time, and well 
 
 The book is interesting and there is alot to be said but it is not my goal to go indepth. Viollet leaves off at a point when he seems to have said so much about something that was largely unspoken and declares that that's enough, if someone else were to analyze these things there is still so much to be learnt.
 
-# Gallery
+## Gallery
 
-## The book
+# The book
 
-<img src="/assets/img/1.jpg" style="width:500px;display:block;margin-left:auto;margin-right:auto;" />
-## Many Plans and good illustrations
+<img src="/assets/img/1.jpg" style="transform:rotate(90deg);width:500px;display:block;margin-left:auto;margin-right:auto;" />
 
-<img src="/assets/img/2.jpg" style="width:500px;display:block;margin-left:auto;margin-right:auto;" />
+# Many Plans and good illustrations
+
+<img src="/assets/img/2.jpg" style="height:500px;display:block;margin-left:auto;margin-right:auto;" />
 
 Yes, I do have a modern Zulu woven basket - Sorry Viollet!
 
