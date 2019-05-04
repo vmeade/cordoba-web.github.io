@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-willkommen <br />
+# bienvenidos <br>
+<img src="assets/img/chile.JPG">
 
-an ordinary blog... stay tuned for a more in-depth post here
+An ordinary blog about things that I find interest enough to write over!
