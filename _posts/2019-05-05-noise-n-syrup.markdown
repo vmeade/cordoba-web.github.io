@@ -25,22 +25,41 @@ Now don't get me wrong. I love the above mentioned composers but I have to tell 
 Track listings:
 <h4>Disc 1</h4>
 Mimir - Side B (untitled 7")
+
 Igor Wakhevitch - Twilight and call of the ascending spirit
+
 soviet france - misfits, looney tunes + scotland criminals (side a excerpt)
+
 karl-bosman - rrrrr
+
 nurse with wound - swamp rat
+
 mother toungue - chapter and verse
+
 yuri kalendarev - dream
+
 alan lamb - meditation on spring 8
+
 the caretaker - 2 songs from stairway to the stars
+
 <h4>disc 2</h4>
+
 thomas koner -31 46'N, 35 13' E
+
 nww + hafler trio = meet again (exc)
+
 hal rammel - first sleep 7" side a
+
 brume - vs/ 3-44-65
+
 id battery - the foot 7" (side a)
+
 cm von hauswolff - circling over square seas
+
 jefre sei getsu ledesma - nama kie butsu
+
 dirac - rest in tension
+
 quest - sol - deep water mix
+
 (n&s is from new jersey)
