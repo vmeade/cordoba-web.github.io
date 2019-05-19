@@ -10,9 +10,9 @@ categories: poetry
 # Planet Jupiter
 
 an empty landscape with distant hills curling beyond the horizon
-a lonely vision down the dusk in crashing waves whiling ways wholly stave the foggy haze of days past guiding
+a lonely vision down the dusk in crashing waves whirling ways wholly stave the foggy haze of days past guiding
 the last light wisening
 that smoked pipe widening the stack with a fuming crack of wood burning PoP! and flame
-this foriegn gaze
+this foreign gaze
 these toiling pains
 beyond distant hills
