@@ -24,10 +24,10 @@ categories: surf
 <hr>
 # Northern California
 <hr>
-### Linda Mar (temporarily down)
-<a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5015">Cam1</a><br>
-<a id="linda2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam2</a>
-
+### Linda Mar (Overview)
+<a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=153608">Cam1</a><br>
+<!--<a id="linda2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam2</a>
+-->
 
 ### Ocean Beach
 <a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4127">Cam1</a><br>
