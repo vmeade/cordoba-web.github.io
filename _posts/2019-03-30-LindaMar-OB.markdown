@@ -4,7 +4,7 @@ author: vm
 date:   2019-03-30 09:38:00 -0300
 categories: surf 
 ---
-
+<!--legacyId:153608 CORS error?-->
 <script type="text/javascript">
     window.onload = function() {
       var a = document.getElementById("linda");
@@ -24,10 +24,17 @@ categories: surf
 <hr>
 # Northern California
 <hr>
+<<<<<<< HEAD
 ### Linda Mar (Overview)
 <a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=153608">Cam1</a><br>
 <!--<a id="linda2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam2</a>
 -->
+=======
+### Linda Mar 
+<a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5015">Cam1</a> temp down but on way to being fixed <br>
+<a id="linda2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam2</a> now working (south side)
+
+>>>>>>> f78e15f0863125bd521ab183b77709b82970a228
 
 ### Ocean Beach
 <a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4127">Cam1</a><br>
