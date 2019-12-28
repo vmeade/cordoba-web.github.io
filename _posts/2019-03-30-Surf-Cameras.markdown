@@ -23,27 +23,35 @@ categories: surf
 </script>
 
 # Northern California
-
-### Linda Mar (Overview)
-<a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=153608">Cam1</a><br>
+<table>
+ <tr>
+  <td>Linda Mar</td>
+  <td><a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=153608">Cam1</a></td>
+ </tr>
+ 
 <!--<a id="linda2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam2</a>
 -->
 <!--Linda Mar 
 <a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5015">Cam1</a> temp down but on way to being fixed <br>
 <a id="linda2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam2</a> now working (south side)
 -->
-### Ocean Beach
-<a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4127">Cam1</a><br>
-<a id="ob2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Cam2</a>
-
-
-### Sharp Park
-<a id="sharppark" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5017">Cam</a>
-
-# Oahu
-
-### Ala Moana Bowls
-<a id="alamoanabowls" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5538">Cam</a>
+ <tr>
+  <td>Ocean Beach</td>
+  <td><a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4127">Cam1</a></td>
+ </tr>
+ <tr>
+  <td>Ocean Beach</td>
+  <td><a id="ob2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Cam2</a></td>
+ </tr>
+ <tr>
+  <td>Sharp Park</td>
+  <td><a id="sharppark" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5017">Cam</a></td>
+ </tr>
+ <tr>
+  <td>Ala Moana Bowls</td>
+  <td><a id="alamoanabowls" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5538">Cam</a></td>
+ </tr>
+</table>
 
 <!--<form action="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013" method="post">
   <div>
