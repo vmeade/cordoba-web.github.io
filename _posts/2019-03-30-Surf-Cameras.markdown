@@ -37,11 +37,15 @@ categories: surf
 -->
  <tr>
   <td>Ocean Beach</td>
-  <td><a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4127">Cam1</a></td>
+  <td><a id="ob" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4127">Central 1</a></td>
  </tr>
  <tr>
-  <td>Ocean Beach</td>
-  <td><a id="ob2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Cam2</a></td>
+  <td></td>
+  <td><a id="ob2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=4128">Central 2</a></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td><a id="ob2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=153832">North</a></td>
  </tr>
  <tr>
   <td>Sharp Park</td>
