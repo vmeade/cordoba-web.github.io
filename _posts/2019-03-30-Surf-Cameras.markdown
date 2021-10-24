@@ -26,7 +26,7 @@ categories: surf
 <table>
  <tr>
   <td>Linda Mar</td>
-  <td><a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=153608">Cam1</a></td>
+  <td><a id="linda" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5017">Cam1</a></td>
  </tr>
  
 <!--<a id="linda2" href="http://e.cdn-surfline.com/syndication/embed/v1/player.html?id=5013">Cam2</a>
