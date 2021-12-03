@@ -23,17 +23,17 @@ categories: history
  </tr>
  <tr>
   <td>
-   <img src="/assets/img/home.jpg" style="display:block;margin-left:auto;margin-right:auto;" />
+   <img src="/assets/img/home.png" style="display:block;margin-left:auto;margin-right:auto;" />
   </td>
  </tr>
  <tr>
   <td>
-   <img src="/assets/img/chile.jpg" style="display:block;margin-left:auto;margin-right:auto;" />
+   <img src="/assets/img/chile.JPG" style="display:block;margin-left:auto;margin-right:auto;" />
   </td>
  </tr>
  <tr>
   <td>
-   <img src="/assets/img/sand.jpg" style="display:block;margin-left:auto;margin-right:auto;" />
+   <img src="/assets/img/sand.JPG" style="display:block;margin-left:auto;margin-right:auto;" />
   </td>
  </tr>
  <tr>
@@ -43,17 +43,17 @@ categories: history
  </tr>
  <tr>
   <td>
-   <img src="/assets/img/jacob.jpg" style="display:block;margin-left:auto;margin-right:auto;" />
+   <img src="/assets/img/jacob.png" style="display:block;margin-left:auto;margin-right:auto;" />
   </td>
  </tr>
  <tr>
   <td>
-   <img src="/assets/img/monsters.jpg" style="display:block;margin-left:auto;margin-right:auto;" />
+   <img src="/assets/img/monsters.png" style="display:block;margin-left:auto;margin-right:auto;" />
   </td>
  </tr>
  <tr>
   <td>
-   <img src="/assets/img/heorot-block.jpg" style="display:block;margin-left:auto;margin-right:auto;" />
+   <img src="/assets/img/heorot-block.png" style="display:block;margin-left:auto;margin-right:auto;" />
   </td>
  </tr>
  <tr>
