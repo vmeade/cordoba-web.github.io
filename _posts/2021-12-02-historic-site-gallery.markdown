@@ -9,21 +9,6 @@ categories: history
  <tr>
   <td>Linda Mar</td>
  </tr>
- <tr>
-  <td>Ocean Beach</td>
- </tr>
- <tr>
-  <td></td>
- </tr>
- <tr>
-  <td></td>
- </tr>
- <tr>
-  <td>Sharp Park</td>
- </tr>
- <tr>
-  <td>Ala Moana Bowls</td>
- </tr>
 </table>
 
 
